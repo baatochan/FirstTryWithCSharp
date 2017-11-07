@@ -1,5 +1,5 @@
-# FirstTryWithCSharp
-C# code written by me before the university
+# First Try with C#
+C# code written by me before the university.
 
 Author: Bartosz Rodziewicz
 
