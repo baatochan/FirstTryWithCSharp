@@ -1,5 +1,5 @@
 # First Try with C#
-C# code written by me before the university.
+C# code written by me before the university (before Sep 2015).
 
 Author: Bartosz Rodziewicz
 
